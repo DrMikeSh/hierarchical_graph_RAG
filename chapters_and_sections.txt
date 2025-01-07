@@ -1,0 +1,247 @@
+Chapter I00-I99 - Diseases of the circulatory system
+Chapter Z00-Z99 - Factors influencing health status and contact with health services
+I95-I99 - Other and unspecified disorders of the circulatory system
+G30-G32 - Other degenerative diseases of the nervous system
+P80-P83 - Conditions involving the integument and temperature regulation of newborn
+O09 - Supervision of high risk pregnancy
+Chapter O00-O9A - Pregnancy, childbirth and the puerperium
+Q20-Q28 - Congenital malformations of the circulatory system
+R25-R29 - Symptoms and signs involving the nervous and musculoskeletal systems
+B20 - Human immunodeficiency virus [HIV] disease
+Chapter V00-Y99 - External causes of morbidity
+B85-B89 - Pediculosis, acariasis and other infestations
+H25-H28 - Disorders of lens
+H65-H75 - Diseases of middle ear and mastoid
+R80-R82 - Abnormal findings on examination of urine, without diagnosis
+J30-J39 - Other diseases of upper respiratory tract
+X92-Y09 - Assault
+A70-A74 - Other diseases caused by chlamydiae
+B65-B83 - Helminthiases
+D50-D53 - Nutritional anemias
+V00-X58 - Accidents
+D3A - Benign neuroendocrine tumors
+L60-L75 - Disorders of skin appendages
+R50-R69 - General symptoms and signs
+Z20-Z29 - Persons with potential health hazards related to communicable diseases
+R99 - Ill-defined and unknown cause of mortality
+Chapter U00-U85 - Codes for special purposes
+U00-U49 - Provisional assignment of new diseases of uncertain etiology or emergency use
+Chapter S00-T88 - Injury, poisoning and certain other consequences of external causes
+D49 - Neoplasms of unspecified behavior
+G89-G99 - Other disorders of the nervous system
+O94-O9A - Other obstetric conditions, not elsewhere classified
+P00-P04 - Newborn affected by maternal factors and by complications of pregnancy, labor, and delivery
+Z18 - Retained foreign body fragments
+G35-G37 - Demyelinating diseases of the central nervous system
+Q10-Q18 - Congenital malformations of eye, ear, face and neck
+K20-K31 - Diseases of esophagus, stomach and duodenum
+L20-L30 - Dermatitis and eczema
+M99 - Biomechanical lesions, not elsewhere classified
+M26-M27 - Dentofacial anomalies [including malocclusion] and other disorders of jaw
+J80-J84 - Other respiratory diseases principally affecting the interstitium
+M97 - Periprosthetic fracture around internal prosthetic joint
+Chapter H60-H95 - Diseases of the ear and mastoid process
+E08-E13 - Diabetes mellitus
+J09-J18 - Influenza and pneumonia
+R90-R94 - Abnormal findings on diagnostic imaging and in function studies, without diagnosis
+F80-F89 - Pervasive and specific developmental disorders
+Z69-Z76 - Persons encountering health services in other circumstances
+H43-H44 - Disorders of vitreous body and globe
+Chapter A00-B99 - Certain infectious and parasitic diseases
+Chapter M00-M99 - Diseases of the musculoskeletal system and connective tissue
+F01-F09 - Mental disorders due to known physiological conditions
+L80-L99 - Other disorders of the skin and subcutaneous tissue
+K35-K38 - Diseases of appendix
+M30-M36 - Systemic connective tissue disorders
+N30-N39 - Other diseases of the urinary system
+A20-A28 - Certain zoonotic bacterial diseases
+I05-I09 - Chronic rheumatic heart diseases
+B99 - Other infectious diseases
+P70-P74 - Transitory endocrine and metabolic disorders specific to newborn
+L40-L45 - Papulosquamous disorders
+O10-O16 - Edema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium
+N10-N16 - Renal tubulo-interstitial diseases
+D10-D36 - Benign neoplasms, except benign neuroendocrine tumors
+Chapter K00-K95 - Diseases of the digestive system
+O80-O82 - Encounter for delivery
+H59 - Intraoperative and postprocedural complications and disorders of eye and adnexa, not elsewhere classified
+M95 - Other disorders of the musculoskeletal system and connective tissue
+J40-J4A - Chronic lower respiratory diseases
+K80-K87 - Disorders of gallbladder, biliary tract and pancreas
+O60-O77 - Complications of labor and delivery
+S80-S89 - Injuries to the knee and lower leg
+G40-G47 - Episodic and paroxysmal disorders
+A00-A09 - Intestinal infectious diseases
+R30-R39 - Symptoms and signs involving the genitourinary system
+J20-J22 - Other acute lower respiratory infections
+A75-A79 - Rickettsioses
+H30-H36 - Disorders of choroid and retina
+I70-I79 - Diseases of arteries, arterioles and capillaries
+Chapter J00-J99 - Diseases of the respiratory system
+P90-P96 - Other disorders originating in the perinatal period
+F70-F79 - Intellectual disabilities
+G10-G14 - Systemic atrophies primarily affecting the central nervous system
+K55-K64 - Other diseases of intestines
+P05-P08 - Disorders of newborn related to length of gestation and fetal growth
+Q38-Q45 - Other congenital malformations of the digestive system
+H60-H62 - Diseases of external ear
+F10-F19 - Mental and behavioral disorders due to psychoactive substance use
+G50-G59 - Nerve, nerve root and plexus disorders
+I10-I1A - Hypertensive diseases
+K90-K95 - Other diseases of the digestive system
+S40-S49 - Injuries to the shoulder and upper arm
+Chapter P00-P96 - Certain conditions originating in the perinatal period
+R47-R49 - Symptoms and signs involving speech and voice
+K40-K46 - Hernia
+D37-D48 - Neoplasms of uncertain behavior, polycythemia vera and myelodysplastic syndromes
+F50-F59 - Behavioral syndromes associated with physiological disturbances and physical factors
+Q80-Q89 - Other congenital malformations
+M60-M79 - Soft tissue disorders
+F30-F39 - Mood [affective] disorders
+G00-G09 - Inflammatory diseases of the central nervous system
+L10-L14 - Bullous disorders
+Z14-Z15 - Genetic carrier and genetic susceptibility to disease
+E20-E35 - Disorders of other endocrine glands
+E65-E68 - Overweight, obesity and other hyperalimentation
+B10 - Other human herpesviruses
+H53-H54 - Visual disturbances and blindness
+J85-J86 - Suppurative and necrotic conditions of the lower respiratory tract
+I60-I69 - Cerebrovascular diseases
+D70-D77 - Other disorders of blood and blood-forming organs
+S00-S09 - Injuries to the head
+H90-H94 - Other disorders of ear
+Z77-Z99 - Persons with potential health hazards related to family and personal history and certain conditions influencing health status
+P09 - Abnormal findings on neonatal screening
+Chapter F01-F99 - Mental, Behavioral and Neurodevelopmental disorders
+I30-I5A - Other forms of heart disease
+N17-N19 - Acute kidney failure and chronic kidney disease
+E36 - Intraoperative complications of endocrine system
+A80-A89 - Viral and prion infections of the central nervous system
+E15-E16 - Other disorders of glucose regulation and pancreatic internal secretion
+F99 - Unspecified mental disorder
+I20-I25 - Ischemic heart diseases
+E00-E07 - Disorders of thyroid gland
+M40-M54 - Dorsopathies
+N70-N77 - Inflammatory diseases of female pelvic organs
+R00-R09 - Symptoms and signs involving the circulatory and respiratory systems
+R40-R46 - Symptoms and signs involving cognition, perception, emotional state and behavior
+A65-A69 - Other spirochetal diseases
+A90-A99 - Arthropod-borne viral fevers and viral hemorrhagic fevers
+B90-B94 - Sequelae of infectious and parasitic diseases
+Q35-Q37 - Cleft lip and cleft palate
+R70-R79 - Abnormal findings on examination of blood, without diagnosis
+B35-B49 - Mycoses
+K70-K77 - Diseases of liver
+Z17 - Estrogen, and other hormones and factors receptor status
+O85-O92 - Complications predominantly related to the puerperium
+H55-H57 - Other disorders of eye and adnexa
+L00-L08 - Infections of the skin and subcutaneous tissue
+L76 - Intraoperative and postprocedural complications of skin and subcutaneous tissue
+Chapter C00-D49 - Neoplasms
+Z40-Z53 - Encounters for other specific health care
+E50-E64 - Other nutritional deficiencies
+Chapter H00-H59 - Diseases of the eye and adnexa
+Z66 - Do not resuscitate status
+G60-G65 - Polyneuropathies and other disorders of the peripheral nervous system
+N60-N65 - Disorders of breast
+R10-R19 - Symptoms and signs involving the digestive system and abdomen
+B95-B97 - Bacterial and viral infectious agents
+Z30-Z39 - Persons encountering health services in circumstances related to reproduction
+H40-H42 - Glaucoma
+B15-B19 - Viral hepatitis
+J00-J06 - Acute upper respiratory infections
+E40-E46 - Malnutrition
+D00-D09 - In situ neoplasms
+P76-P78 - Digestive system disorders of newborn
+D65-D69 - Coagulation defects, purpura and other hemorrhagic conditions
+K65-K68 - Diseases of peritoneum and retroperitoneum
+H00-H05 - Disorders of eyelid, lacrimal system and orbit
+H49-H52 - Disorders of ocular muscles, binocular movement, accommodation and refraction
+K00-K14 - Diseases of oral cavity and salivary glands
+K50-K52 - Noninfective enteritis and colitis
+S30-S39 - Injuries to the abdomen, lower back, lumbar spine, pelvis and external genitals
+Z16 - Resistance to antimicrobial drugs
+Z67 - Blood type
+J95 - Intraoperative and postprocedural complications and disorders of respiratory system, not elsewhere classified
+D78 - Intraoperative and postprocedural complications of the spleen
+Q65-Q79 - Congenital malformations and deformations of the musculoskeletal system
+I00-I02 - Acute rheumatic fever
+B25-B34 - Other viral diseases
+P50-P61 - Hemorrhagic and hematological disorders of newborn
+R97 - Abnormal tumor markers
+S70-S79 - Injuries to the hip and thigh
+S90-S99 - Injuries to the ankle and foot
+Chapter L00-L99 - Diseases of the skin and subcutaneous tissue
+N80-N98 - Noninflammatory disorders of female genital tract
+H15-H22 - Disorders of sclera, cornea, iris and ciliary body
+P35-P39 - Infections specific to the perinatal period
+D60-D64 - Aplastic and other anemias and other bone marrow failure syndromes
+N20-N23 - Urolithiasis
+S50-S59 - Injuries to the elbow and forearm
+Z19 - Hormone sensitivity malignancy status
+P10-P15 - Birth trauma
+S60-S69 - Injuries to the wrist, hand and fingers
+Z00-Z13 - Persons encountering health services for examinations
+Q60-Q64 - Congenital malformations of the urinary system
+I26-I28 - Pulmonary heart disease and diseases of pulmonary circulation
+I80-I89 - Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified
+F90-F98 - Behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+N00-N08 - Glomerular diseases
+Chapter D50-D89 - Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism
+B50-B64 - Protozoal diseases
+Q30-Q34 - Congenital malformations of the respiratory system
+Y35-Y38 - Legal intervention, operations of war, military operations, and terrorism
+L49-L54 - Urticaria and erythema
+D55-D59 - Hemolytic anemias
+G80-G83 - Cerebral palsy and other paralytic syndromes
+A30-A49 - Other bacterial diseases
+Q50-Q56 - Congenital malformations of genital organs
+R83-R89 - Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis
+Chapter R00-R99 - Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified
+D80-D89 - Certain disorders involving the immune mechanism
+T07-T88 - Injury, poisoning and certain other consequences of external causes
+O30-O48 - Maternal care related to the fetus and amniotic cavity and possible delivery problems
+E89 - Postprocedural endocrine and metabolic complications and disorders, not elsewhere classified
+G20-G26 - Extrapyramidal and movement disorders
+S10-S19 - Injuries to the neck
+O20-O29 - Other maternal disorders predominantly related to pregnancy
+J96-J99 - Other diseases of the respiratory system
+N25-N29 - Other disorders of kidney and ureter
+Chapter Q00-Q99 - Congenital malformations, deformations and chromosomal abnormalities
+Z55-Z65 - Persons with potential health hazards related to socioeconomic and psychosocial circumstances
+P19-P29 - Respiratory and cardiovascular disorders specific to the perinatal period
+F60-F69 - Disorders of adult personality and behavior
+L55-L59 - Radiation-related disorders of the skin and subcutaneous tissue
+R20-R23 - Symptoms and signs involving the skin and subcutaneous tissue
+H95 - Intraoperative and postprocedural complications and disorders of ear and mastoid process, not elsewhere classified
+H10-H11 - Disorders of conjunctiva
+F40-F48 - Anxiety, dissociative, stress-related, somatoform and other nonpsychotic mental disorders
+A15-A19 - Tuberculosis
+B00-B09 - Viral infections characterized by skin and mucous membrane lesions
+G70-G73 - Diseases of myoneural junction and muscle
+Chapter N00-N99 - Diseases of the genitourinary system
+Z68 - Body mass index (BMI)
+P84 - Other problems with newborn
+X71-X83 - Intentional self-harm
+M80-M94 - Osteopathies and chondropathies
+J90-J94 - Other diseases of the pleura
+Y90-Y99 - Supplementary factors related to causes of morbidity classified elsewhere
+E70-E88 - Metabolic disorders
+Q00-Q07 - Congenital malformations of the nervous system
+J60-J70 - Lung diseases due to external agents
+M96 - Intraoperative and postprocedural complications and disorders of musculoskeletal system, not elsewhere classified
+N99 - Intraoperative and postprocedural complications and disorders of genitourinary system, not elsewhere classified
+A50-A64 - Infections with a predominantly sexual mode of transmission
+Y62-Y84 - Complications of medical and surgical care
+H46-H47 - Disorders of optic nerve and visual pathways
+N40-N53 - Diseases of male genital organs
+Q90-Q99 - Chromosomal abnormalities, not elsewhere classified
+Chapter G00-G99 - Diseases of the nervous system
+C00-C96 - Malignant neoplasms
+H80-H83 - Diseases of inner ear
+M00-M25 - Arthropathies
+F20-F29 - Schizophrenia, schizotypal, delusional, and other non-mood psychotic disorders
+S20-S29 - Injuries to the thorax
+Y21-Y33 - Event of undetermined intent
+Chapter E00-E89 - Endocrine, nutritional and metabolic diseases
+O00-O08 - Pregnancy with abortive outcome
